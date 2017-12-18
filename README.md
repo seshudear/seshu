@@ -1,2 +1,0 @@
-# seshu
-personal repo
